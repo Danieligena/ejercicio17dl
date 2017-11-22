@@ -46,6 +46,9 @@ nav {
 	position: absolute;
 	top: 20px;
 	z-index: 2000;
+	background-color: rgba(0, 0, 0, .3);
+	height: auto;
+	width: 100vw;
 }
 
 nav ul {
@@ -59,7 +62,7 @@ nav ul li {
 }
 
 nav ul li a {
-	color: #b4b4b4;
+	color: #ddd;
 }
 
 nav ul li a:hover, nav ul li a:active {
